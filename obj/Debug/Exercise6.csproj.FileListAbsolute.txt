@@ -1,0 +1,13 @@
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\bin\Debug\Exercise6.exe.config
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\bin\Debug\Exercise6.exe
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\bin\Debug\Exercise6.pdb
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\obj\Debug\Exercise6.csprojResolveAssemblyReference.cache
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\obj\Debug\Exercise6.Properties.Resources.resources
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\obj\Debug\Exercise6.csproj.GenerateResource.cache
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\obj\Debug\Exercise6.csproj.CoreCompileInputs.cache
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\obj\Debug\Exercise6.exe
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\obj\Debug\Exercise6.pdb
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\obj\Debug\Exercise6.Login.resources
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\obj\Debug\Exercise6.HomePage.resources
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\obj\Debug\Exercise6.CompanyForm.resources
+B:\FH KIEL\IDW 2018 summer c#\IDWExercise\Exercise6\obj\Debug\Exercise6.CarForm.resources
